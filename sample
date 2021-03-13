@@ -1,0 +1,340 @@
+  <div class="container-fluid " style="background-image:url(./images/ontario2.jpg); background-size: auto; background-position: center ; ">
+        <div class="container mt-8"  style=" background-color: rgba(255,255,255,0.9);">
+
+
+
+
+            <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search your place here.." title="Type in a name">
+
+         
+          <ul id="myUL">
+               <li>
+                 <a href="#" >          <button class="collapsible">Brampton</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+              
+                <li>
+                 <a href="#" >  
+                        <button class="collapsible">Mississauga</button>
+                    <div class="content">
+                    <p>Contact Us: 647-559-1296</p>
+                       </div>
+
+             </a></li>
+              
+                    <li>
+                 <a href="#" > <button class="collapsible">Toronto</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+            
+                <li>
+                 <a href="#" >       <button class="collapsible">North York</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+            
+                <li>
+                 <a href="#" >   <button class="collapsible">Scarbrough</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+
+ <li>
+                 <a href="#" >   <button class="collapsible">Maple</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+ <li>
+                 <a href="#" >   <button class="collapsible">Richmond Hill</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+ <li>
+                 <a href="#" >   <button class="collapsible">Oakville</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+ <li>
+                 <a href="#" >   <button class="collapsible">Milton</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+ <li>
+                 <a href="#" >   <button class="collapsible">Burlington</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a>
+ </li>
+ <li>
+   <a href="#" >   <button class="collapsible">Hamilton</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+ <li>
+   <a href="#" >   <button class="collapsible">London</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+ <li>
+   <a href="#" >   <button class="collapsible">Saint Catherines</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+ <li>
+   <a href="#" >  <button class="collapsible">Cambridge</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+ <li>
+   <a href="#" >   <button class="collapsible">Kitchener</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+ <li>
+   <a href="#" >   <button class="collapsible">Niagara Falls</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+ <li>
+   <a href="#" >   <button class="collapsible">Brantford</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+ <li>
+   <a href="#" >   <button class="collapsible">Stratford</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+ <li>
+   <a href="#" >   <button class="collapsible">Woodstock</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>           
+                <li>
+   <a href="#" >   <button class="collapsible">Guleph</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+
+  <li>
+   <a href="#" >   <button class="collapsible">Collingwood</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+  <li>
+   <a href="#" >   <button class="collapsible">Orilia</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+  <li>
+   <a href="#" >   <button class="collapsible">Barrie</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+  <li>
+   <a href="#" >   
+   <a href="#" >   <button class="collapsible">Aurora</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+  <li>
+   <a href="#" >   
+   <a href="#" >   <button class="collapsible">Southampton</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+  <li>
+   <a href="#" >   
+   <a href="#" >   <button class="collapsible">New Market</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+  <li>
+   <a href="#" >   
+   <a href="#" >   <button class="collapsible">Windsor</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+</div>
+ </a></li>
+  <li>
+   <a href="#" >  
+   <a href="#" >   <button class="collapsible">Sarnia</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+  <li>
+   <a href="#" >   
+   <a href="#" >   <button class="collapsible">Chatham</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+
+
+  <li>
+   <a href="#" >   
+   <a href="#" >   <button class="collapsible">Cobourg</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+  <li>
+   <a href="#" >   
+   <a href="#" >   <button class="collapsible">Peterborough</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+  <li>
+   <a href="#" >   
+   <a href="#" >   <button class="collapsible">Lindsay</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+  <li>
+   <a href="#" >   
+   <a href="#" >   <button class="collapsible">Brockville</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+  <li>
+   <a href="#" >   
+   <a href="#" >   <button class="collapsible">Morrisburg</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+  <li>
+   <a href="#" >   
+   <a href="#" >   <button class="collapsible">Cornwall</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+  <li>
+   <a href="#" >   
+   <a href="#" >   <button class="collapsible">Smith Falls</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+<li>
+   <a href="#" >  
+   <a href="#" >   <button class="collapsible">Kemptville</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+ <li>
+   <a href="#" >  
+   <a href="#" >   <button class="collapsible">Kapuskasing</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+ <li>
+   <a href="#" >  
+   <a href="#" >   <button class="collapsible">Ottawa</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+ <li>
+   <a href="#" >   
+   <a href="#" >   <button class="collapsible">Kannata</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+ <li>
+   <a href="#" >  
+   <a href="#" >   <button class="collapsible">Nepean</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+ <li>
+   <a href="#" >   
+   <a href="#" >   <button class="collapsible">Petawawa</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+ <li>
+   <a href="#" >   
+   <a href="#" >   <button class="collapsible">Pembroke</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+
+
+                <li>
+   <a href="#" >   
+   
+   <a href="#" >   <button class="collapsible">Sault Ste. Marie</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+  
+ 
+
+ <li>
+   <a href="#" >   <button class="collapsible">Bracebridge</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+ <li>
+   <a href="#" >   <button class="collapsible">Timmins</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+
+ <li>
+   <a href="#" >   <button class="collapsible">Thunder Bay</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+  <li>
+   <a href="#" >   <button class="collapsible">Sudbury</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+  <li>
+   <a href="#" >   <button class="collapsible">Northbay</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+
+ <li>
+   <a href="#" >   <button class="collapsible">Edmonton</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+
+<li>
+   <a href="#" >   <button class="collapsible">Calgary</button>
+<div class="content">
+  <p>Contact Us: 647-559-1296</p>
+ </a></li>
+                
+            </ul>
+
+        </div>
+    </div>
+
+
+
